@@ -47,5 +47,4 @@ vendor/bin/phpunit --coverage-text -c phpunit.xml
 Версия PHP обновлена до 8.1, тк. не все пакеты устанавливались под 8.0
 исправлен PHP-DOC "@covers EventSaver" -> "@covers \App\Actions\EventSaver"
 ```
-
----
+--
