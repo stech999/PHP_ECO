@@ -13,3 +13,5 @@ sh start.sh lesson2 php-fpm && exit
 Commands:
 - `php runner -c save_event --name 'name' --receiver 1 --text 'text' --cron '* * * * *'`
 - `php runner -c handle_events`
+
+---
